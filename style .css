@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    background-color: coral;
+    font-family: fantasy;
+    color: crimson;
+}
+img{
+    width: 400px;
+    height: 500px;
+}
+#bio{
+    background-color:darkorchid;
+}
+.menu{
+    font-family: monospace;
+    position: absolute;
+    list-style: none;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+}
+#Welcome{
+    color: chartreuse;
+    background-color: crimson;
+    height: 800px
+}
